@@ -1,0 +1,22 @@
+C:\Users\Khaled Amr\Desktop\Problem 19\bin\Debug\Problem 19.exe.config
+C:\Users\Khaled Amr\Desktop\Problem 19\bin\Debug\Problem 19.exe
+C:\Users\Khaled Amr\Desktop\Problem 19\bin\Debug\Problem 19.pdb
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem 19.csproj.AssemblyReference.cache
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem 19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem_19.Properties.Resources.resources
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem 19.csproj.GenerateResource.cache
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem 19.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem 19.exe
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem 19.pdb
+C:\Users\Khaled Amr\Desktop\Problem 19\obj\Debug\Problem_19.Form1.resources
+C:\Users\HP\OneDrive\Desktop\Problem 19\bin\Debug\Problem 19.exe.config
+C:\Users\HP\OneDrive\Desktop\Problem 19\bin\Debug\Problem 19.exe
+C:\Users\HP\OneDrive\Desktop\Problem 19\bin\Debug\Problem 19.pdb
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem 19.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem 19.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem_19.Form1.resources
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem_19.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem 19.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem 19.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem 19.exe
+C:\Users\HP\OneDrive\Desktop\Problem 19\obj\Debug\Problem 19.pdb
